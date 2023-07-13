@@ -12,3 +12,6 @@ git push
 
 # This allows the window to stay up.
 turtle.done()
+
+# This allows the Tkinter window to open.
+tk.mainloop()
